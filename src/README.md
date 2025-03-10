@@ -17,8 +17,6 @@ dealt with writing to external files and retrieving data from them.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Kotlin.org](https://kotlinlang.org) For downloading necessary software for coding in Kotlin and basic Kotlin info.
 - [w3school.com](https://www.w3schools.com/KOTLIN/index.php) For Kotlin learning help.
 
